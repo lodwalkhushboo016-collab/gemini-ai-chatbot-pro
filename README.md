@@ -1,23 +1,23 @@
 # 🤖 Gemini AI Chatbot Pro
 
-**10K AI Competition Submission**
+**Submission for 10K AI Competition**
 
 ### 🔥 4 Pro Features
-1. **Chat Memory** - `exit` likhne pe puri chat history dikhata hai
-2. **Smart Commands** - `translate:` aur `summarize:` support
-3. **AI Personality** - `[Gemini AI]` tag ke saath reply
-4. **Demo Mode** - API quota khatam hone par bhi kaam karta hai
+1. **Chat Memory** - Type `exit` to see full chat history
+2. **Smart Commands** - Supports `translate:` and `summarize:` 
+3. **AI Personality** - Replies with `[Gemini AI]` tag
+4. **Demo Mode** - Works even without API key
 
-### ▶️ Kaise Chalaye
-1. Google Colab me `CHAT_GPT.ipynb` open karo
+### ▶️ How to Run
+1. Open `CHAT_GPT.ipynb` in Google Colab
 2. Run all cells
-3. Commands try karo: 
+3. Try commands:
    - `hi`
-   - `translate: Main competition jeetungi`
-   - `summarize: AI future hai`
+   - `translate: I will win this competition`
+   - `summarize: AI is the future`
    - `exit`
 
-### 📹 Judge ke liye
-Screenshot: Chat History feature working
+### 📹 For Judges
+Screenshot attached: Chat History feature working
 
 **Tech Stack**: Python, Google Colab, Gemini 2.0 Flash API Ready
